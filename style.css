@@ -1,0 +1,52 @@
+ul {
+  list-style-type: none;
+  background-color: #b55555;
+  overflow: hidden;
+  padding: 1em;
+  margin-bottom: 2em;
+}
+
+li {
+    display: inline
+}
+
+li a {
+  text-decoration: none;
+  color: black;
+  font-size: 1.3em;
+  padding: 1em;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+li a:hover {
+    background-color: white;
+}
+
+body {
+    background-color: #deb5b5;
+}
+
+.stuarts {
+    max-width: 20%;
+    max-height: 20%;
+    border-radius: 50%;
+    display: inline;
+}
+
+.chsstuart {
+    max-width:50%;
+    max-height: 50%;
+    border-radius: 50%;
+}
+
+p {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
